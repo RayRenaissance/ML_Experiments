@@ -1,7 +1,7 @@
 # 🧠 ML Experiments & Projects
 
-This repository contains my complete learning journey in **Machine Learning**, **Feature Engineering**, and **Advanced ML Algorithms**.  
-Each folder focuses on a different phase of the ML workflow — from basic models to advanced techniques and project implementations.
+This repository contains my complete learning journey in **Machine Learning**, **Feature Engineering**, **Advanced ML Algorithms**, and **Neural Network Basics**.  
+Each folder focuses on a different phase of the ML workflow — from basic models to advanced techniques and deep learning experiments.
 
 ---
 
@@ -16,6 +16,8 @@ Core ML concepts and algorithms using Scikit-learn:
 - 05_Model_Evaluation_and_Cross_Validation.ipynb  
 - 06_K-Nearest_Neighbour_Algorithm.ipynb  
 
+---
+
 ### 🧰 2️⃣ Feature Engineering
 Techniques to clean, transform, and enhance data:
 - 01_Basics_of_Feature_Engineering.ipynb  
@@ -26,12 +28,30 @@ Techniques to clean, transform, and enhance data:
 - 06_Model_Evaluation_Technique.ipynb  
 - 07_Cross_Validation_and_Hyperperameter_Tuning.ipynb  
 
+---
+
 ### 🚀 3️⃣ Advanced Machine Learning Algorithms
 Advanced methods for improving model performance:
 - 01_Ensemble_Learning.ipynb  
 - 02_Bagging_and_Random_Forest.ipynb  
+- 03_Boosting_and_Gradient_Boosting.ipynb  
+- 04_XGBoost.ipynb  
+- 05_LightGBM_and_CatBoost.ipynb  
 
-### 🧪 4️⃣ Projects
+---
+
+### 🤖 4️⃣ Neural Network Basics
+Fundamental concepts and experiments in Deep Learning and Neural Networks:
+- 01_Intro_Deep_Learning_and_Neural_Networks.ipynb  
+- 02_Forward_Propogation_and_Activation_Functions.ipynb  
+- 03_BackPropagation_and_Loss_Functions.ipynb  
+- 04_Gradient_Descent_and_Optimization_Technique.ipynb  
+- 05_Neural_Network_with_Tensorflow_Keras.ipynb  
+- 06_Neural_Network_with_PyTorch.ipynb  
+
+---
+
+### 🧪 5️⃣ Projects
 End-to-end ML projects demonstrating practical implementation:
 - 🏠 Housing_Price_Prediction.ipynb  
 - 📞 Customer_Churn_Prediction.ipynb  
@@ -40,14 +60,15 @@ End-to-end ML projects demonstrating practical implementation:
 
 ## ⚙️ Tech Stack
 - **Language:** Python  
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch  
 
 ---
 
 ## 🚀 Future Additions
 - Support Vector Machines & PCA  
-- Gradient Boosting, XGBoost, LightGBM  
-- Deep Learning Experiments with TensorFlow / PyTorch  
+- Gradient Boosting, XGBoost, LightGBM (✅ Added)  
+- Deep Learning Experiments with TensorFlow / PyTorch (✅ Added)  
+- CNNs, RNNs, and Transfer Learning  
 
 ---
 
