@@ -53,9 +53,10 @@ Fundamental concepts and experiments in Deep Learning and Neural Networks:
 
 ### 🧪 5️⃣ Projects
 End-to-end ML projects demonstrating practical implementation:
-- 🏠 Housing_Price_Prediction.ipynb  
-- 📞 Customer_Churn_Prediction.ipynb  
-
+- 🏠 01_Housing-Price_Supervised_Learning_Project.ipynb  
+- 📞 02_Customer-Churn_Supervised_Learning_Project.ipynb  
+- 🎯 03_Ensemble_Learning_and_Model_Comparison_Project.ipynb  
+- 🖼️ 04_Image_Classification_on_CIFAR10.ipynb
 ---
 
 ## ⚙️ Tech Stack
