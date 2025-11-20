@@ -30,7 +30,7 @@ Techniques to clean, transform, and enhance data:
 
 ---
 
-### 🚀 3️⃣ Advanced Machine Learning Algorithms
+### 🚀 3️⃣ Machine Learning Algorithms Implementations
 Advanced methods for improving model performance:
 - 01_Ensemble_Learning.ipynb  
 - 02_Bagging_and_Random_Forest.ipynb  
@@ -40,7 +40,17 @@ Advanced methods for improving model performance:
 
 ---
 
-### 🤖 4️⃣ Neural Network Basics
+### 🚀 4️⃣ Advanced Machine Learning Algorithms
+Advanced methods for improving model performance:
+- 01_Ensemble_Learning.ipynb  
+- 02_Bagging_and_Random_Forest.ipynb  
+- 03_Boosting_and_Gradient_Boosting.ipynb  
+- 04_XGBoost.ipynb  
+- 05_LightGBM_and_CatBoost.ipynb  
+
+---
+
+### 🤖 5️⃣ Neural Network Basics
 Fundamental concepts and experiments in Deep Learning and Neural Networks:
 - 01_Intro_Deep_Learning_and_Neural_Networks.ipynb  
 - 02_Forward_Propogation_and_Activation_Functions.ipynb  
@@ -51,7 +61,7 @@ Fundamental concepts and experiments in Deep Learning and Neural Networks:
 
 ---
 
-### 🧪 5️⃣ Projects
+### 🧪 6️⃣ Projects
 End-to-end ML projects demonstrating practical implementation:
 - 🏠 01_Housing-Price_Supervised_Learning_Project.ipynb  
 - 📞 02_Customer-Churn_Supervised_Learning_Project.ipynb  
@@ -73,5 +83,10 @@ End-to-end ML projects demonstrating practical implementation:
 
 ---
 
+1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
+
+---
+
 ## 📄 License
 MIT License
+
