@@ -32,11 +32,16 @@ Techniques to clean, transform, and enhance data:
 
 ### 🚀 3️⃣ Machine Learning Algorithms Implementations
 Advanced methods for improving model performance:
-- 01_Ensemble_Learning.ipynb  
-- 02_Bagging_and_Random_Forest.ipynb  
-- 03_Boosting_and_Gradient_Boosting.ipynb  
-- 04_XGBoost.ipynb  
-- 05_LightGBM_and_CatBoost.ipynb  
+- 01_Linear_Regression.ipynb
+- 02_Ridge_and_Lasso_Regression.ipynb
+- 03_Polynomial_Regression.ipynb
+- 04_Logistic_Regression.ipynb
+- 05_K_Nearest_Neighbors_KNN.ipynb
+- 06_Support_Vector_Machine_SVM.ipynb
+- 07_Decision_Tree.ipynb
+- 08_Random_Forest.ipynb
+- 09_Gradient_Boosting.ipynb
+-  
 
 ---
 
